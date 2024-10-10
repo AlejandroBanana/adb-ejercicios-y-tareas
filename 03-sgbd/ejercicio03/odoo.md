@@ -1,0 +1,2 @@
+# Odoo
+__Odoo__ es un software de ERP que soporta principalmente PostgreSQL como su sistema de gestión de bases de datos. __PostgreSQL__ es conocido por su robustez y escalabilidad, lo que lo hace ideal para las aplicaciones empresariales que Odoo ofrece.

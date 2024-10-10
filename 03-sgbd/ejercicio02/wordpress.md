@@ -1,0 +1,2 @@
+# WordPress
+__WordPress__ es un sistema de gestión de contenidos (CMS) que utiliza __MySQL__ como su sistema de gestión de bases de datos (SGBD) principal. En versiones más recientes, también se ha añadido soporte para __MariaDB__, que es un fork de MySQL.
